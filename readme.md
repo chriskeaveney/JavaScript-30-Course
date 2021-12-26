@@ -8,13 +8,13 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Some of my examples from the course
 
-![](JavaScript-30-Course/img/img1.png)
+![](img/img1.png)
 
-![](JavaScript-30-Course/img/img2.png)
+![](img/img2.png)
 
-![](JavaScript-30-Course/img/img3.png)
+![](img/img3.png)
 
-![](JavaScript-30-Course/img/img4.png)
+![](img/img4.png)
 
 ## Community #JavaScript30 Content
 
