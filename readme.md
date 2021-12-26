@@ -6,6 +6,16 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
+## Some of my examples from the course
+
+![](JavaScript-30-Course/img/img1.png)
+
+![](JavaScript-30-Course/img/img2.png)
+
+![](JavaScript-30-Course/img/img3.png)
+
+![](JavaScript-30-Course/img/img4.png)
+
 ## Community #JavaScript30 Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
